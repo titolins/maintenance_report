@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled 
+75d14659cf2348697b81ec3ac4a4861ed1da3e20 refs/remotes/origin/duktape
+9e53f87e2548343e3e7569af22d84ab88c708fcc refs/remotes/origin/goja
+e5238dcc7b01b5e8367ece97b9dd11de452ad67e refs/remotes/origin/master
+f1219752f57fcd5f42d722707410c4b842621974 refs/tags/v0.0.0
+^fdf0cbf47995b6a45e6cfb4f10fbe1bb83219a16
+a1dfe985b19dbdea083bda841007dbde2799379b refs/tags/v0.1.0
+^862af910eaac6be4e754013a1ab688dd5538effe
